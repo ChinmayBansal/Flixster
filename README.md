@@ -10,15 +10,15 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ X ] Users are able to see a customized app icon and launch screen
-- [ X ] Your app should work for any screen size and orientation using AutoLayout constraints
-- [ X ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [ X ] Displays at least 5 different movies in a table view
-- [ X ] Can tap into detail view of movie with a full description, backdrop image, and title
+- [X] Users are able to see a customized app icon and launch screen
+- [X] Your app should work for any screen size and orientation using AutoLayout constraints
+- [X] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [X] Displays at least 5 different movies in a table view
+- [X] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
-- [ X ] Unique UI changes, such as background, font/color changes, etc.
+- [X] Unique UI changes, such as background, font/color changes, etc.
 - [ ] User implements a collection view
 - [ ] User implemenets tab bar controller with at least two screens
 
